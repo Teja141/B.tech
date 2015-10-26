@@ -1,5 +1,3 @@
-# B.tech
-//My First repository
 #include<stdio.h>
 #include<conio.h>
 void main()
